@@ -1,0 +1,27 @@
+name: Generate Daily Greek Words
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at 00:00 UTC
+  workflow_dispatch:    # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate 5 random words
+        run: |
+          cat greek_vocab.json \
+          | jq '{words: .words | shuffle | .[0:5]}' \
+          > daily_greek.json
+
+      - name: Commit daily_greek.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add daily_greek.json
+          git commit -m "Update daily 5 Greek words"
+          git push
