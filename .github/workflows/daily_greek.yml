@@ -15,7 +15,7 @@ jobs:
       - name: Generate 5 random words
         run: |
           cat greek_vocab.json \
-          | jq '{words: .words | shuffle | .[0:5]}' \
+          | jq '{words: .words | sort_by(.word | rand) | .[0:5]}' \
           > daily_greek.json
 
       - name: Commit daily_greek.json
