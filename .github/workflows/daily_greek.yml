@@ -3,7 +3,7 @@ name: Generate Daily Greek Words
 on:
   schedule:
     - cron: '0 0 * * *'  # runs daily at 00:00 UTC
-  workflow_dispatch:    # allows manual run
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,9 +14,15 @@ jobs:
 
       - name: Generate 5 random words
         run: |
-          cat greek_vocab.json \
-          | jq '{words: .words | sort_by(.word | rand) | .[0:5]}' \
-          > daily_greek.json
+          python3 - << 'EOF'
+          import json, random
+          with open("greek_vocab.json", encoding="utf-8") as f:
+              data = json.load(f)
+          words = data["words"]
+          sample = random.sample(words, min(5, len(words)))
+          with open("daily_greek.json", "w", encoding="utf-8") as f:
+              json.dump({"words": sample}, f, ensure_ascii=False)
+          EOF
 
       - name: Commit daily_greek.json
         run: |
