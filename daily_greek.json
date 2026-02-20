@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "αποδοχών",
-      "example_el": "Θα ήθελα μια εβδομάδα άδεια μετ΄αποδοχών.",
-      "example_en": "I would like a week off with pay."
+      "word": "γεωγραφικός",
+      "example_el": "Ο γεωγραφικός νότιος πόλος είναι το νοτιότερο σημείο της γης.",
+      "example_en": "The geographical south pole is the Earth's southernmost point."
     },
     {
-      "word": "εσας",
-      "example_el": "Ποιο απ' εσας είναι ο Τομ;",
-      "example_en": "Which one of you is Tom?"
+      "word": "φίλησα",
+      "example_el": "Φίλησα τον Τομ.",
+      "example_en": "I kissed Tom."
     },
     {
-      "word": "κείμενα",
-      "example_el": "Όταν μια μετάφραση γίνεται καλά, είναι δύσκολο να ξεχωρίσεις ποιο από τα δύο κείμενα είναι το πρωτότυπο.",
-      "example_en": "When a translation is done well, it is difficult to tell which of the two texts is the original."
+      "word": "κινεζικά",
+      "example_el": "Εκτός από τα κινεζικά, η θεία μου μπορεί να μιλήσει και αγγλικά.",
+      "example_en": "In addition to Chinese, my aunt can speak English."
     },
     {
-      "word": "άφησαν",
-      "example_el": "Μ' άφησαν μόνη.",
-      "example_en": "They left me alone."
+      "word": "αυτολεξεί",
+      "example_el": "Μην μεταφράζεις την πρόταση αυτολεξεί.",
+      "example_en": "Do not translate the sentence word for word."
     },
     {
-      "word": "γενιές",
-      "example_el": "Πιστεύετε ότι οι προηγούμενες γενιές ζούσαν καλύτερα;",
-      "example_en": "Do you think that the prior generations lived better?"
+      "word": "εμπιστεύεσαι",
+      "example_el": "Κι εσύ; Εμπιστεύεσαι αυτόν τον άνθρωπο;",
+      "example_en": "What about you? Do you trust this man?"
     }
   ]
 }
