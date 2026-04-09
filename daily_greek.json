@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "γερμανικό",
-      "example_el": "Γιατί αγόρασες γερμανικό αμάξι;",
-      "example_en": "Why did you buy a German car?"
+      "word": "αυγό",
+      "example_el": "Αυτό το αυγό μυρίζει άσχημα.",
+      "example_en": "This egg smells bad."
     },
     {
-      "word": "σχολή",
-      "example_el": "Δεν είναι ανάγκη να φοιτήσεις σε σχολή καλών τεχνών, για να γίνεις καλλιτέχνης.",
-      "example_en": "You don't have to study at a school of fine arts to become an artist."
+      "word": "κλέφτης",
+      "example_el": "Ο κλέφτης μεταμφιέστηκε σε αστυνομικό.",
+      "example_en": "The thief disguised himself as a policeman."
     },
     {
-      "word": "αλλά",
-      "example_el": "Τα αγγλικά δεν είναι εύκολα, αλλά είναι ενδιαφέροντα.",
-      "example_en": "English is not easy, but it is interesting."
+      "word": "προθεσμία",
+      "example_el": "Δεν έχουμε πολύ χρόνο, η προθεσμία λήγει αύριο.",
+      "example_en": "We don't have much time, the deadline expires tomorrow."
     },
     {
-      "word": "κόκκινος",
-      "example_el": "Ο ήλιος είναι κόκκινος.",
-      "example_en": "The sun is red."
+      "word": "αδελφοί",
+      "example_el": "Ο Μάριο και ο Λουίτζι είναι αδελφοί.",
+      "example_en": "Mario and Luigi are brothers."
     },
     {
-      "word": "τυφλών",
-      "example_el": "Στη χώρα των τυφλών βασιλεύει ο μονόφθαλμος!",
-      "example_en": "In the land of the blind, the one-eyed man is king."
+      "word": "αναφορική",
+      "example_el": "Στα αγγλικά, η αναφορική αντωνυμία συχνά παραλείπεται. Στα λατινικά, δεν είναι ποτέ.",
+      "example_en": "In English, the relative pronoun is often omitted. In Latin it never is."
     }
   ]
 }
