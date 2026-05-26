@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "ελεγχθεί",
-      "example_el": "Αυτή η πρόταση πρέπει να ελεγχθεί.",
-      "example_en": "This sentence needs to be checked."
+      "word": "ξεσκονίζει",
+      "example_el": "Ο Τομ ξεσκονίζει.",
+      "example_en": "Tom is dusting."
     },
     {
-      "word": "σεσίλια",
-      "example_el": "Η Σεσίλια δεν ήταν δασκάλα.",
-      "example_en": "Cecilia wasn't a teacher."
+      "word": "δωμάτιο",
+      "example_el": "Δεν υπήρχε τίποτα στο δωμάτιο εκτός από μία παλιά καρέκλα.",
+      "example_en": "There was nothing but an old chair in the room."
     },
     {
-      "word": "σπουδάζω",
-      "example_el": "Εγώ σπουδάζω ξένες γλώσσες. Μπορώ να σε βοηθήσω αν θέλεις. Και ίσως μπορείς να με βοηθήσεις και εσύ.",
-      "example_en": "I am studying languages. I can help you if you want me to. And maybe I'd like you to help me."
+      "word": "νοεμβρίου",
+      "example_el": "Η διάλεξή μου θα είναι το επόμενο Σάββατο, στις 29 Νοεμβρίου 2014, στις 10:30 π.μ",
+      "example_en": "My lecture will be next Saturday, November 29, 2014, at 10:30 a.m."
     },
     {
-      "word": "άσχημος",
-      "example_el": "Ο Τομ είναι άσχημος.",
-      "example_en": "Tom is ugly."
+      "word": "συμβούλιο",
+      "example_el": "Το συμβούλιο δεν έχει τίποτα υπόψη για όλα αυτά.",
+      "example_en": "The council has nothing in mind for all of this."
     },
     {
-      "word": "ασπρόμαυρα",
-      "example_el": "Τα σκυλιά βλέπουν ασπρόμαυρα.",
-      "example_en": "Dogs see in black and white."
+      "word": "απολαύσεις",
+      "example_el": "Δε θα το απολαύσεις.",
+      "example_en": "You won't enjoy it."
     }
   ]
 }
