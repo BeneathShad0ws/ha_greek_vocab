@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "εχθρούς",
-      "example_el": "Ο Τομ έχει πολλούς εχθρούς.",
-      "example_en": "Tom has a lot of enemies."
+      "word": "εξηγήσετε",
+      "example_el": "Θα θέλατε να το εξηγήσετε αυτό;",
+      "example_en": "Would you like to explain that?"
     },
     {
-      "word": "παροιμία",
-      "example_el": "Αυτή είναι μια παροιμία.",
-      "example_en": "This is a proverb."
+      "word": "ανοίγεται",
+      "example_el": "Να μη στέκεται κανείς εδώ όταν ανοίγεται η βαλβίδα.",
+      "example_en": "No one should stand here when the valve is opened."
     },
     {
-      "word": "άχρηστη",
-      "example_el": "Η ελευθερία είναι άχρηστη αν δεν την ασκείτε.",
-      "example_en": "Freedom is useless unless you use it."
+      "word": "κάστρα",
+      "example_el": "Υπάρχουν πολλά παλιά κάστρα στην Ευρώπη.",
+      "example_en": "There are many old castles in Europe."
     },
     {
-      "word": "διαλύουμε",
-      "example_el": "Ας μην διαλύουμε τις προσπάθειές μας σε άσκοπα σχέδια που μόνο σπαταλούν τον χρόνο μας.",
-      "example_en": "Let's not dissipate our efforts on pointless and time-wasting schemes."
+      "word": "καυσαέρια",
+      "example_el": "Τα καυσαέρια των αυτοκινήτων κόβουν χρόνια ζωής.",
+      "example_en": "Car exhaust gases take years off a life."
     },
     {
-      "word": "τακτοποιήσει",
-      "example_el": "Ήδη τα έχεις τακτοποιήσει όλα;",
-      "example_en": "Have you already sorted everything out?"
+      "word": "φτωχοί",
+      "example_el": "Όταν δίνω φαγητό στους φτωχούς, με λένε άγιο. Όταν ρωτάω γιατί είναι φτωχοί, με λένε κομμουνιστή.",
+      "example_en": "When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist."
     }
   ]
 }
