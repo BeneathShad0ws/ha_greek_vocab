@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "εξηγήσετε",
-      "example_el": "Θα θέλατε να το εξηγήσετε αυτό;",
-      "example_en": "Would you like to explain that?"
+      "word": "ζόρι",
+      "example_el": "Η φωνή της ακουγόταν με το ζόρι πάνω από τη φασαρία.",
+      "example_en": "Her voice could hardly be heard over the noise."
     },
     {
-      "word": "ανοίγεται",
-      "example_el": "Να μη στέκεται κανείς εδώ όταν ανοίγεται η βαλβίδα.",
-      "example_en": "No one should stand here when the valve is opened."
+      "word": "ήθελαν",
+      "example_el": "Δεν ήθελαν να τον υποστηρίξουν σ' αυτό το θέμα.",
+      "example_en": "They did not want to support him on this issue."
     },
     {
-      "word": "κάστρα",
-      "example_el": "Υπάρχουν πολλά παλιά κάστρα στην Ευρώπη.",
-      "example_en": "There are many old castles in Europe."
+      "word": "μαγνήτες",
+      "example_el": "Οι μαγνήτες, φυσικά, έχουν ένα μαγνητικό πεδίο γύρω τους.",
+      "example_en": "The magnets, of course, have a magnetic field around them."
     },
     {
-      "word": "καυσαέρια",
-      "example_el": "Τα καυσαέρια των αυτοκινήτων κόβουν χρόνια ζωής.",
-      "example_en": "Car exhaust gases take years off a life."
+      "word": "περήφανος",
+      "example_el": "Είμαι περήφανος για σένα.",
+      "example_en": "I'm proud of you."
     },
     {
-      "word": "φτωχοί",
-      "example_el": "Όταν δίνω φαγητό στους φτωχούς, με λένε άγιο. Όταν ρωτάω γιατί είναι φτωχοί, με λένε κομμουνιστή.",
-      "example_en": "When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist."
+      "word": "διανυσμάτων",
+      "example_el": "Τα διανύσματα δε χρειάζεται να αντιστοιχούν σε μία φυσική ποσότητα. Οτιδήποτε μπορεί να είναι χώρος διανυσμάτων αρκεί να έχουν ορισθεί η πρόσθεση διανυσμάτων και ο πολλαπλασιασμός με βαθμωτό μέγεθος.",
+      "example_en": "Vectors need not correspond to a physical quantity; anything can be a vector space as long as vector addition and scalar multiplication is defined."
     }
   ]
 }
