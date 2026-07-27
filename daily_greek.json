@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "πράσινο",
-      "example_el": "Το δέντρο είναι πράσινο.",
-      "example_en": "The tree is green."
+      "word": "ήχους",
+      "example_el": "Οι νέοι χόρευαν υπό τους ήχους της ορχήστρας τριών μαντολίνων.",
+      "example_en": "The young people were dancing to the sounds of the three-mandolin orchestra."
     },
     {
-      "word": "έντυπη",
-      "example_el": "Το γραφείο αναζήτησης αποσκευών θα σας δώσει μια έντυπη δήλωση απώλειας.",
-      "example_en": "The baggage claim office will give you a printed loss statement."
+      "word": "κενά",
+      "example_el": "Ο Θωμάς συμπλήρωσε τα κενά.",
+      "example_en": "Tom filled in the blanks."
     },
     {
-      "word": "τατόεμπα",
-      "example_el": "O Τομ πρόσθεσε διακόσιες χιλιάδες προτάσεις στο σώμα κειμένων της Τατόεμπα.",
-      "example_en": "Tom added 200,000 sentences to Tatoeba's corpus."
+      "word": "αλλαξε",
+      "example_el": "'Αλλαξε κάτι;",
+      "example_en": "Has anything changed?"
     },
     {
-      "word": "εκπληκτικές",
-      "example_el": "Είναι εκπληκτικές.",
-      "example_en": "They're amazing."
+      "word": "εξαντλημένη",
+      "example_el": "Είμαι εξαντλημένη.",
+      "example_en": "I'm exhausted."
     },
     {
-      "word": "ακολουθήσατε",
-      "example_el": "Τον ακολουθήσατε όπως σας είπαμε;",
-      "example_en": "Did you follow him as we said?"
+      "word": "βρες",
+      "example_el": "Βρες τον Τομ.",
+      "example_en": "Find Tom."
     }
   ]
 }
