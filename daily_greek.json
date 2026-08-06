@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "ψωνίζει",
-      "example_el": "Ο Θωμάς ψωνίζει.",
-      "example_en": "Tom is shopping."
+      "word": "διδάσκω",
+      "example_el": "Διδάσκω Γεωγραφία.",
+      "example_en": "I teach geography."
     },
     {
-      "word": "λουκάνικο",
-      "example_el": "Το αγόρι τρώει ένα λουκάνικο.",
-      "example_en": "The boy eats a sausage."
+      "word": "φάει",
+      "example_el": "Τι έχετε φάει; Ψάρι ή κρέας;",
+      "example_en": "Which did you eat, fish or meat?"
     },
     {
-      "word": "επιχείρησή",
-      "example_el": "Η επιχείρησή μας δεν πληρώνει καλά.",
-      "example_en": "Our company doesn't pay well."
+      "word": "πεινασμένος",
+      "example_el": "Είμαι πεινασμένος επειδή δεν έφαγα μεσημεριανό.",
+      "example_en": "I am hungry because I did not eat lunch."
     },
     {
-      "word": "φτωχές",
-      "example_el": "Γιατί είμαστε φτωχές;",
-      "example_en": "Why are we poor?"
+      "word": "κλεοπάτρα",
+      "example_el": "Η Κλεοπάτρα βρισκόταν στη Ρώμη την ημέρα που δολοφονήθηκε ο Ιούλιος Καίσαρας.",
+      "example_en": "Cleopatra was in Rome the day Julius Caesar was assassinated."
     },
     {
-      "word": "σοκαρισμένες",
-      "example_el": "Είμαστε ακόμη σοκαρισμένες.",
-      "example_en": "We're still in shock."
+      "word": "αγγλικές",
+      "example_el": "Μπορείτε να διορθώσετε τις αγγλικές προτάσεις μου;",
+      "example_en": "Can you correct my English sentences?"
     }
   ]
 }
