@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "πορτοκαλής",
-      "example_el": "Ο ουρανός είναι πορτοκαλής.",
-      "example_en": "The sky is orange."
+      "word": "όρμο",
+      "example_el": "Είμαι στο νησί των ναυαγών, που έχει τον όρμο των ναυαγίων.",
+      "example_en": "I'm on the island of the castaways, which has the bay of the shipwrecks."
     },
     {
-      "word": "χημικός",
-      "example_el": "Αυτό που ανακάλυψε ο χημικός είναι τρομακτικό.",
-      "example_en": "What the chemist discovered is scary."
+      "word": "κορέα",
+      "example_el": "Θέλω να πάω στην Κορέα.",
+      "example_en": "I want to visit Korea."
     },
     {
-      "word": "ψήφισε",
-      "example_el": "Ψήφισε με!",
-      "example_en": "Vote for me!"
+      "word": "επιχείρημα",
+      "example_el": "Δεν υπάρχει επιχείρημα κατά των αριθμών.",
+      "example_en": "There are no arguments against numbers."
     },
     {
-      "word": "μαχαίρι",
-      "example_el": "Το μαχαίρι μου είναι κοφτερό.",
-      "example_en": "My knife is sharp."
+      "word": "τρώγατε",
+      "example_el": "Τι τρώγατε;",
+      "example_en": "What were you eating?"
     },
     {
-      "word": "απευθείας",
-      "example_el": "Είναι απευθείας πτήση;",
-      "example_en": "Is it a direct flight?"
+      "word": "τραυματίες",
+      "example_el": "Μετά το ατύχημα οι τραυματίες μεταφέρθηκαν στο νοσοκομείο.",
+      "example_en": "After the accident, the injured were taken to hospital."
     }
   ]
 }
