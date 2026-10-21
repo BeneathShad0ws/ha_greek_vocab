@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "μεγάλωσαν",
-      "example_el": "Τόσο ο Τομ όσο και η σύζυγός του μεγάλωσαν στην Αυστραλία.",
-      "example_en": "Both Tom and his wife grew up in Australia."
+      "word": "πρόσθεση",
+      "example_el": "Τα διανύσματα δε χρειάζεται να αντιστοιχούν σε μία φυσική ποσότητα. Οτιδήποτε μπορεί να είναι χώρος διανυσμάτων αρκεί να έχουν ορισθεί η πρόσθεση διανυσμάτων και ο πολλαπλασιασμός με βαθμωτό μέγεθος.",
+      "example_en": "Vectors need not correspond to a physical quantity; anything can be a vector space as long as vector addition and scalar multiplication is defined."
     },
     {
-      "word": "συζητήσει",
-      "example_el": "Δεν το 'χουμε συζητήσει ακόμη.",
-      "example_en": "We haven't discussed it yet."
+      "word": "βοηθειών",
+      "example_el": "Έχει αιμοστατικούς επιδέσμους στο κουτί πρώτων βοηθειών.",
+      "example_en": "There are tourniquets in the first aid kit."
     },
     {
-      "word": "αναγνωρίσεις",
-      "example_el": "Μπορείς ν' αναγνωρίσεις το τραγούδι του αηδονιού;",
-      "example_en": "Can you recognize the nightingale's song?"
+      "word": "αρέσεις",
+      "example_el": "Δε μου αρέσεις πια.",
+      "example_en": "I don't like you anymore."
     },
     {
-      "word": "ακμάζει",
-      "example_el": "Η επιχείρησή μας ακμάζει.",
-      "example_en": "Our business is booming."
+      "word": "τραβηγμένο",
+      "example_el": "Είναι τραβηγμένο από τα μαλλιά.",
+      "example_en": "It's far-fetched."
     },
     {
-      "word": "παρόντος",
-      "example_el": "Καταλήξαμε στο συμπέρασμα ότι αυτό το σχέδιο δεν είναι εφικτό επί του παρόντος.",
-      "example_en": "We have come to the conclusion that this plan is not feasible currently."
+      "word": "δεδομένη",
+      "example_el": "Η αγάπη δεν είναι δεδομένη και αυτονόητη.",
+      "example_en": "Love is not a given and self-evident."
     }
   ]
 }
