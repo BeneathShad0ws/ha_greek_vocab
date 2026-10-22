@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "πρόσθεση",
-      "example_el": "Τα διανύσματα δε χρειάζεται να αντιστοιχούν σε μία φυσική ποσότητα. Οτιδήποτε μπορεί να είναι χώρος διανυσμάτων αρκεί να έχουν ορισθεί η πρόσθεση διανυσμάτων και ο πολλαπλασιασμός με βαθμωτό μέγεθος.",
-      "example_en": "Vectors need not correspond to a physical quantity; anything can be a vector space as long as vector addition and scalar multiplication is defined."
+      "word": "τρέξω",
+      "example_el": "Δεν μπορώ να τρέξω τόσο γρήγορα.",
+      "example_en": "I can't run as fast."
     },
     {
-      "word": "βοηθειών",
-      "example_el": "Έχει αιμοστατικούς επιδέσμους στο κουτί πρώτων βοηθειών.",
-      "example_en": "There are tourniquets in the first aid kit."
+      "word": "απείλησες",
+      "example_el": "Απείλησες τον Τομ;",
+      "example_en": "Did you threaten Tom?"
     },
     {
-      "word": "αρέσεις",
-      "example_el": "Δε μου αρέσεις πια.",
-      "example_en": "I don't like you anymore."
+      "word": "ξερα",
+      "example_el": "Σας φίλησε; \"Ναι.\" \"Το 'ξερα!\"",
+      "example_en": "Did he kiss you? \"Yes.\" \"I knew it!\""
     },
     {
-      "word": "τραβηγμένο",
-      "example_el": "Είναι τραβηγμένο από τα μαλλιά.",
-      "example_en": "It's far-fetched."
+      "word": "σκατά",
+      "example_el": "Η Σάμη είπε \"κακά\" που είναι μία άλλη λέξη για τα \"σκατά\".",
+      "example_en": "Sami used \"poop\" which is another word for \"shit.\""
     },
     {
-      "word": "δεδομένη",
-      "example_el": "Η αγάπη δεν είναι δεδομένη και αυτονόητη.",
-      "example_en": "Love is not a given and self-evident."
+      "word": "αδερφέ",
+      "example_el": "Είσαι εντάξει, αδερφέ;",
+      "example_en": "Are you OK, bro?"
     }
   ]
 }
