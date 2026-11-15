@@ -1,29 +1,29 @@
 {
   "words": [
     {
-      "word": "γνώρίσες",
-      "example_el": "Πότε γνώρίσες τον πατέρα του Τομ;",
-      "example_en": "When did you meet Tom's father?"
+      "word": "επιασαν",
+      "example_el": "'Επιασαν τον Τομ.",
+      "example_en": "They caught Tom."
     },
     {
-      "word": "εκνευριστικό",
-      "example_el": "Πόσο εκνευριστικό!",
-      "example_en": "How annoying!"
+      "word": "παρατατικό",
+      "example_el": "Ορισμένες γλώσσες χρησιμοποιούν τον παρατατικό χρόνο για να εκφράσουν μη ολοκληρωμένες πράξεις.",
+      "example_en": "Certain languages use the imperfect tense to express incomplete actions."
     },
     {
-      "word": "περπατάτε",
-      "example_el": "Μην περπατάτε τόσο γρήγορα. Δεν μπορώ να σε ακολουθήσω.",
-      "example_en": "Don't walk so fast. I can't keep up with you."
+      "word": "προτζεκτ",
+      "example_el": "Το προτζεκτ δε τελείωσε στην ώρα του.",
+      "example_en": "The project wasn't finished on time."
     },
     {
-      "word": "διαβάζεται",
-      "example_el": "Το κείμενο δε διαβάζεται.",
-      "example_en": "The text is illegible."
+      "word": "ύστερα",
+      "example_el": "Ξαναβρεθήκαμε ύστερα από πολλά χρόνια.",
+      "example_en": "We met again after many years."
     },
     {
-      "word": "ιωάννη",
-      "example_el": "Ο Θωμάς είδε την Μαρία και τον Ιωάννη.",
-      "example_en": "Tom saw Mary and John."
+      "word": "ήλπιζα",
+      "example_el": "Ήλπιζα να δω τον Τομ.",
+      "example_en": "I was hoping to see Tom."
     }
   ]
 }
